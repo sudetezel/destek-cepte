@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040728454872",
+    "project_id": "destekcepte-42116",
+    "storage_bucket": "destekcepte-42116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040728454872:android:175996c660445ca50949ad",
+        "android_client_info": {
+          "package_name": "com.example.destek_cepte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVf4fgvPcUgG-J0btPNzLVJz9pQHElbJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
